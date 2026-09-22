@@ -1,0 +1,3 @@
+LAB 6 LOGBOOK - SAMRUDHA - E26B07F0810
+SETUP: my working directory is lab06-os-and-filesystem
+T1 prediction: I think ls / will show about 50 items
